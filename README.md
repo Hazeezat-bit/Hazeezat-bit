@@ -1,4 +1,4 @@
-# Hi, I'm Hazeezat 👋
+# Hi, I'm Hazeezat 
 
 **Data Scientist & Analyst** — I turn messy, complex data into decisions that matter.
 
