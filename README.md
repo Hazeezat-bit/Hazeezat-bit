@@ -6,7 +6,7 @@ MSc Data Science from the University of Padua, with hands-on experience across *
 
 ---
 
-## 🔧 What I work with
+##  What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -18,7 +18,7 @@ MSc Data Science from the University of Padua, with hands-on experience across *
 
 ---
 
-## 📂 Featured projects
+##  Featured projects
 
 ###  [Global Trade Analysis (2013–2023)](https://github.com/Hazeezat-bit/global-trade-analysis)
 End-to-end pipeline ingesting bilateral trade flows from the UN Comtrade API and World Bank across 11 economies. Built a normalised PostgreSQL database, wrote advanced SQL analytics (window functions, CTEs, trade openness ratios), and produced publication-quality Python visualisations.
