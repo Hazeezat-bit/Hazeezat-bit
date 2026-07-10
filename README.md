@@ -20,14 +20,14 @@ MSc Data Science from the University of Padua, with hands-on experience across *
 
 ## 📂 Featured projects
 
-### 🌍 [Global Trade Analysis (2013–2023)](https://github.com/Hazeezat-bit/global-trade-analysis)
+###  [Global Trade Analysis (2013–2023)](https://github.com/Hazeezat-bit/global-trade-analysis)
 End-to-end pipeline ingesting bilateral trade flows from the UN Comtrade API and World Bank across 11 economies. Built a normalised PostgreSQL database, wrote advanced SQL analytics (window functions, CTEs, trade openness ratios), and produced publication-quality Python visualisations.
 
 `Python` `PostgreSQL` `SQL` `pandas` `matplotlib` `ETL` `API ingestion`
 
 ---
 
-### 💄 [Sephora Product Analytics](https://github.com/Hazeezat-bit/Sephora-Product-Analytics)
+###  [Sephora Product Analytics](https://github.com/Hazeezat-bit/Sephora-Product-Analytics)
 Analysed 8,494 beauty products across 304 brands to uncover what actually drives customer ratings and engagement — beyond price. Built an interactive Tableau dashboard with filters by category, brand, and price tier.
 
 **Key finding:** Mid-range ($20–$50) products consistently outperform premium tiers on customer ratings.
@@ -38,7 +38,7 @@ Analysed 8,494 beauty products across 304 brands to uncover what actually drives
 
 ---
 
-## 🌐 Background that makes me different
+##  Background that makes me different
 
 - 🛢️ **B.Sc Oil & Gas Engineering** (Kharkov Polytechnic Institute, Summa Cum Laude) — gives me rare domain depth for supply chain and energy sector roles
 - 🏥 **Clinical Data Analyst experience** — built automated monitoring workflows that reduced critical alert delays by 20%, validated 40+ patient records daily
@@ -47,7 +47,7 @@ Analysed 8,494 beauty products across 304 brands to uncover what actually drives
 
 ---
 
-## 📫 Let's connect
+##  Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-datascienceportfol.io-blue?style=flat)](https://www.datascienceportfol.io/Hazeezatadebayo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazeezat-adebayo-b460b922a/)
